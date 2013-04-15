@@ -1,0 +1,164 @@
+/*1358836753,178142495*/
+
+#blog_header_title a{font-size:22px;font-weight:normal;text-decoration:none}
+.blog_bluebar .uiListHorizontal{float:left;width:auto}
+#blog_searchbox{left:0;position:absolute;top:60px}
+.blog_bluebar{padding-bottom:5px;border-bottom:2px solid #738ebc}
+#blog_stories{position:relative}
+.blog_story_image{padding:10px;vertical-align:top}
+.blog_story_image img{border:1px solid #ccc}
+.blog_story_image h2{color:#666;font-size:18px;font-weight:normal;line-height:1.3em;padding-top:3px}
+.blog_story_image h2:hover{text-decoration:underline}
+div.blog_story_image:hover{background:#edf2fa}
+.blog_gray_divider{border-top:1px solid #ccc}
+#blog_main_column{padding-top:10px;width:600px}
+#blog_main_column img{max-width:540px}
+#blog_right_column{width:300px;padding-top:10px}
+#blog_search_form{padding-bottom:15px}
+.blogpost_title, .blogpost_title a{font-size:16px;line-height:1.1em}
+.blogpost_text{line-height:1.5em;font-size:12px}
+.popular_link_wrapper{overflow:auto;padding:0}
+#blog_right_column p{line-height:1.6em;margin-top:3px}
+.blog_likebox_feature{background:#eceff5;border-bottom:1px solid #e5eaf1;float:left;margin:0 0 2px 0;padding:5px 5px 4px 5px}
+.blog_likebox_unit{float:left;width:160px}
+.blog_likebox_small_wrapper{overflow:auto;width:100%}
+.blog_likebox_small{float:left;margin:0 0 2px 0;padding-top:4px}
+.blog_likebox_small_unit{float:left;width:60px}
+.blog_likebox_nub{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y8/x/UvyvLtJTQzO.png);background-repeat:no-repeat;background-size:auto;background-position:0 0;clear:left;height:5px;margin:0 0 0 17px;overflow:hidden;width:9px}
+.search_results_header{margin-bottom:10px}
+.search_results_text{font-size:20px;margin-right:5px}
+.blog_archive{width:180px}
+.blog_archive_page_title{color:#666;font-size:18px;font-weight:normal;padding:10px 0 5px 0}
+.blogpost_text .text_exposed_root img{display:none}
+.blogpost_text .text_exposed img{display:inline}
+.blogpost_text .text_exposed_link{font-size:11px;font-weight:bold}
+.blogpost_text ul{list-style-type:square;margin:10px 0;padding:0 10px 0 20px}
+.blogpost_text p{font-size:12px;line-height:1.5em;margin:0}
+.blogpost_text .pullquote{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yW/x/wwCLChtVJc3.png);background-position:top left;background-repeat:no-repeat;color:#3563a5;font-size:22px;line-height:1.3em;margin-top:10px;padding:10px 0 0 50px}
+.blogpost_text blockquote{border-left:5px solid #ddd;color:#444;font-size:11px;margin:0;padding:0 15px}
+.blogpost_text .photo .caption{font-size:11px;line-height:1.3em;color:#666;padding:2px 0 0 0;text-align:left}
+.blogpost_text .photo_none{clear:both}
+.blogpost_text .photo_none .caption{color:#666;font-size:11px;line-height:1.3em;padding:2px 0 10px 0}
+.blogpost_text .photo_center{clear:both;padding:0 0 10px 0;text-align:center}
+.blogpost_text .photo_center .photo_img{margin:0 auto;text-align:center;width:180px}
+.blogpost_text .photo_center .caption{margin:0 auto;text-align:center;width:180px}
+.blogpost_text .photo_left{clear:left;float:left;padding:2px 10px 5px 0;width:180px}
+.blogpost_text .wide_note .photo_left{padding:2px 15px 5px 0}
+.blogpost_text .photo_right{clear:right;float:right;padding:2px 0 5px 10px;width:180px}
+.blogpost_text .wide_note .photo_right{padding:2px 0 5px 15px}
+.blogpost_text .clear_left{clear:right}
+.blogpost_text .clear_center{clear:both}
+.blogpost_text .clear_right{clear:left}
+#blog_pager .uiPager{border-color:#ccc}
+.fbPageEdit #globalContainer #content{min-height:150px}
+.fbPageEdit #bottomContent{display:none}
+.fbPageEdit #mainContainer #contentArea{padding:0;width:799px}
+.fbPageEdit #leftCol{padding-top:59px}
+.fbPageEdit .grayArea{min-height:515px;border-top:1px solid #b3b3b3}
+.fbPageEdit .hasRightCol .grayArea{border-right:1px solid #b3b3b3}
+.fbPageEdit #pageFooter #contentCurve{background-color:#f2f2f2}
+.manage_deal td.data{padding-bottom:5px}
+.fbPageEdit .hasDatepicker{line-height:20px}
+.fbPageEdit .checkbox_array{width:60%}
+.fbPageEdit .checkbox_item{width:50%}
+body.thirdParty .hasRightCol #contentArea{width:520px}
+body.thirdParty #globalContainer{width:1008px !important}
+.appInviteSection .friendsPlayingFacepile{width:240px}
+.appInviteSection .pager .pagerNext{margin-left:-1px}
+.appInviteSection .appInvite{position:relative;padding:4px}
+.appInviteSection .appInvite .link{color:#333;display:block;text-decoration:none}
+.appInviteSection .appInvite:hover,
+.appInviteSection .appInvite:active,
+.appInviteSection .appInvite:focus{background-color:#d8dfea}
+.appInviteSection .appInvite .play{color:#3b5998}
+.appInviteSection .appInvite .uiCloseButton{display:none;position:absolute;top:2px;right:2px
+}
+.appInviteSection .appInvite:hover .uiCloseButton{display:block
+}
+.appRequestGroup .ignoreAll{display:inline}
+.appInviteList .appInviteListShowAll{border-width:0}
+#pagebody.confirminvite #content{padding:0;width:760px}
+.confirminvite #home_container #home_main{border:0;padding:0}
+.confirm_boxes{background:#fff;border:0;margin-bottom:5px}
+.confirm{padding:10px 0 5px 0;margin-bottom:5px;background:white;border-top:1px solid #d8dfea}
+.status_confirm{padding:6px 20px;margin:0 0 -1px;background-color:#f7f7f7;border-color:#ccc;border-style:solid;border-width:1px 0 1px 0;color:#333;line-height:15px}
+.status_confirm img{vertical-align:middle;margin-right:4px;margin-top:3px;margin-bottom:3px}
+.confirm .image{width:110px;text-align:left}
+.confirm label{color:#000;font-weight:normal}
+.confirm td{vertical-align:top}
+.confirm td.info{width:100%;padding:4px 0 0 10px}
+.confirm td.info .tos_portion{font-size:9px;line-height:13px;padding-top:10px}
+.confirm .invite_details{font-size:9px;color:#999}
+.confirm .invite_question{margin:10px 0}
+.addToFLRequests_Link{display:none}
+.confirm .addToFLRequests_Hidden .add_to_friend_list_widget{display:none}
+.confirm .add_to_friend_list_widget{padding-top:0}
+.confirm .addToFLRequests_Hidden .addToFLRequests_Link{display:block}
+.confirm .addToFLRequests{padding-top:10px}
+.buttons{float:none;padding:0}
+.buttons .msg_link{display:inline-block;margin:4px 0 0 8px}
+.aux_actions{font-size:9px;padding-top:10px}
+.confirminvite .inputsubmit, .confirminvite .inputbutton{margin-right:5px}
+.profile_link{font-weight:bold;font-size:13px}
+.personal_msg{color:#000;padding:8px 0 4px}
+.personal_msg .direction_ltr .start_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yK/x/j_x6_e8Haxo.gif) no-repeat top}
+.personal_msg .direction_rtl .start_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/x/6yLaDlr93Ya.gif) no-repeat top}
+.personal_msg .msg_content{padding:0 5px 0 5px}
+.personal_msg .direction_ltr .end_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yZ/x/RTC56GNi1LC.gif) no-repeat bottom}
+.personal_msg .direction_rtl .end_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/x/oeTz_cbfYKY.gif) no-repeat bottom}
+.Locale_fr_FR .personal_msg .start_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ys/x/kdpl4gIdqt9.gif) no-repeat left top}
+.Locale_fr_FR .personal_msg .end_quote{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/x/9qZYWKJ4xGh.gif) no-repeat top right}
+.confirm .suggestion_details{font-size:9px;color:#999;margin:12px 0 0 4px}
+.confirminvite .new_user_action{padding:0}
+.confirminvite .new_user_action a{font-weight:bold;padding:2px 0 4px 20px;display:inline-block}
+.confirminvite .new_user_action .wall{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ys/x/slh9ZgwfrSA.gif) no-repeat left}
+.confirminvite .new_user_action .message{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y2/x/I-6WhcLLGrb.gif) no-repeat left}
+.confirminvite .new_user_action .view_profile{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yt/x/kynJfU3IwbY.gif) no-repeat left}
+.confirminvite .new_user_action .suggest{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yA/x/olfiynbWBJH.gif) no-repeat left}
+.confirminvite #friend_suggestion_main .whatsthis{margin:0 0 3px 7px;padding:0 3px 0 3px;font-size:9px}
+.confirm .external_friend_suggestion_msg{margin-top:7px;width:350px}
+.external_name_placeholder{padding-bottom:50px}
+.confirm_boxes .photo_request img{border:1px solid #ccc;padding:3px;width:116px}
+.video_confirm_all{border-top:1px solid #d8dfea;padding:15px 20px;text-align:left}
+.video_confirm_all .confirm_prompt{padding:0 0 10px 0}
+.video_confirm_all .confirm_buttons .inputbutton{margin:0}
+.confirm_boxes .video_tag_thumb{float:left;padding:0 0 10px 0;width:175px}
+.confirm_boxes .video_tag_info{float:left;width:240px}
+.confirm_boxes .playing .video_tag_thumb, .confirm_boxes .playing .video_tag_info{float:none;width:auto}
+.confirm_boxes .video_tag_info .video_tag_request .video_title_link{font-weight:bold}
+.confirm_boxes .video_tag_info .video_tag_people{padding:10px 5px}
+.confirm_boxes .video_tag_info .video_tag_people .inputcheckbox{margin-right:5px}
+.reqs_dialog #req_dialog_checkboxes{padding-left:10px;padding-top:10px;padding-bottom:5px}
+.reqs_dialog #req_dialog_checkboxes label{font-weight:normal;color:#000}
+.reqs_dialog #req_dialog_checkboxes input{margin-right:5px}
+.connect_request_text{padding-bottom:10px}
+.connect_request_block{padding-left:5px;font-size:11px}
+.phonebook_req td{vertical-align:middle}
+.hiddenreqsiframe{height:1px;left:-1000px;position:absolute;top:-1000px;visibility:hidden;width:1px}
+.confirm_boxes .show_family_checkbox{padding-top:10px}
+.confirm_boxes .show_family.buttons{padding-top:10px}
+.confirm_boxes .async_saving{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yO/x/b53Ajb4ihCP.gif) no-repeat 0 0;height:30px}
+.confirm_boxes .async_saving div{display:none}
+.invite_checkboxes_container{margin:10px 0}
+.invite_checkboxes{margin:3px 0}
+.invite_checkbox{color:#333;float:left}
+.fbReqBlankState{border-top:2px solid #ccc;text-align:center;font-size:13px}
+.sp_blfshp{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y5/x/6Rv20hpOH1a.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}
+.sx_29cbd3{background-position:-16px 0}
+.selected .sx_29cbd3{background-position:0 0}
+.sx_385f8e{background-position:-16px -17px}
+.selected .sx_385f8e{background-position:0 -17px}
+.sx_015444{width:6px;height:12px;background-position:-17px -51px}
+.sx_6ab88b{width:6px;height:12px;background-position:-24px -51px}
+.sx_bb8d7b{background-position:0 -34px}
+.sx_ea72ba{background-position:0 -51px}
+.sx_cd3d5a{height:15px;background-position:0 -119px}
+.sx_cdff8d{width:15px;background-position:-17px -34px}
+.sx_4060ee{background-position:0 -68px}
+.sx_7b58db{background-position:0 -85px}
+.sx_d55414{background-position:0 -102px}
+.profile_status img{margin:0;padding:0;float:left}
+.profile_status #status_body{padding:0;margin:0 0 0 5px}
+.profile_status #status_body #status_content{color:#000}
+
+#bootloader_w_h1l { height: 42px; }

@@ -1,0 +1,16 @@
+/*1357737974,173213983*/
+
+.example_inputs{width:40%;float:left}
+.example_outputs{width:45%;float:right}
+.example_inputs pre{margin:0}
+.example_outputs pre{margin:0}
+.hidden_element{display:none}
+.left_label{float:left;margin-left:15px}
+.right_label{float:right;margin-right:15px}
+.hackerCupLicenseDiv{text-align:center}
+.hackerCupLicenseImage{border-width:0}
+.HackerCupTimer_display{font-family:monospace}
+.hackerCupLargeTimer{font-size:18px}
+.hackerCupAnnounceTimer{text-align:center}
+
+#bootloader_wpyw9 { height: 42px; }

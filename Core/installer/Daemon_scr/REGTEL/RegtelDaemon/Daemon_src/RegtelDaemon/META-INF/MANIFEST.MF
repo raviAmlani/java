@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Created-By: R27.4.0-90_CR358515-94243-1.5.0_12-20080118-1154-windows-i
+ a32 (BEA Systems, Inc.)
+Built-By: PANEL
+Main-Class: com.regtel.daemon.UtilScan
+Class-Path: . RegtelDaemon.jar lib/trayicon.jar lib/PFDCoreHash.1.0.0.
+ jar lib/jdom-b9.jar lib/itext-2.0.6.jar lib/iaik_smime.jar lib/iaik_j
+ ce_full.jar lib/core2.0.0.jar lib/basic-core1.0.0.jar
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+      <class name="com.code.test.TestNGDemo">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.code.test.TestNGDemo@c53dce]" name="beforeClass" is-config="true" duration-ms="0" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.code.test.TestNGDemo@c53dce]" name="sub" duration-ms="16" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.code.test.TestNGDemo@c53dce]" name="afterClass" is-config="true" duration-ms="0" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+        </test-method> <!-- afterClass -->
+        <test-method status="FAIL" signature="sum()[pri:0, instance:com.code.test.TestNGDemo@c53dce]" name="sum" duration-ms="0" started-at="2012-06-07T15:46:54Z" finished-at="2012-06-07T15:46:54Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected:<7> but was:<8>]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected:<7> but was:<8>
+	at org.testng.AssertJUnit.fail(AssertJUnit.java:59)
+	at org.testng.AssertJUnit.failNotEquals(AssertJUnit.java:364)
+	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:80)
+	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:245)
+	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:252)
+	at com.code.test.TestNGDemo.sum(TestNGDemo.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:87)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1022)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:109)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:202)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:173)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+        </test-method> <!-- sum -->
+      </class> <!-- com.code.test.TestNGDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

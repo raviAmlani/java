@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<EDRs>
+  <EDR>
+    <ActionCode>PP_CONSULTA_HAPPY</ActionCode>
+    <OperationType>SEARCH</OperationType>
+    <transactionSequenceNumber></transactionSequenceNumber>
+    <Description>Consulta de bono happy/ Happy period query</Description>
+    <Interpreter>bw.pp.ch.bw_pp_ch_InterpreteWebConsultaHappy</Interpreter>
+    <XMLObjects>
+      <XMLObject>123</XMLObject>
+      <XMLObject>456</XMLObject>
+      <XMLObject>hi</XMLObject>
+      <!--Can be multiple-->
+    </XMLObjects>
+    <AffectedData>
+      <AData object=""  literal ="numTelefono">telefono</AData>
+      <AData object=""  literal ="codMoneda">moneda</AData>
+      <!--Can be multiple-->
+    </AffectedData>
+    <OriginalData>
+      <ODField object=""  literal ="">Hello World</ODField>
+      <!--Can be multiple-->
+    </OriginalData>
+    <OriginalMultipleData>
+      <OMD >
+        <!--Can be multiple-->
+        <OMDName object=""  literal ="">consultaAux</OMDName>
+        <number object="" literal ="">numBonosHappy</number>
+        <Record>
+          <OMDField object="" literal ="codBono">codBono</OMDField>
+          <OMDField object="" literal ="desBono">desBono</OMDField>
+          <OMDField object="" literal ="costeBono">costeBono</OMDField>
+          <!--Can be multiple-->
+        </Record>
+      </OMD>
+    </OriginalMultipleData>
+    <NewData>
+      <NDField object=""  literal ="">Inside NewData</NDField>
+      <!--Can be multiple-->
+    </NewData>
+    <NewMultipleData>
+      <NMD >
+        <!--Can be multiple-->
+        <NMDName object=""  literal =""></NMDName>
+        <NMDnumber object=""  literal =""></NMDnumber>
+        <NMDRecord>
+          <NMDField object=""  literal =""></NMDField>
+          <!--Can be multiple-->
+        </NMDRecord>
+      </NMD>
+    </NewMultipleData>
+  </EDR>
+  <EDR>
+    <ActionCode>PP_CONSULTA_HAPPY</ActionCode>
+    <OperationType>SEARCH2</OperationType>
+    <transactionSequenceNumber></transactionSequenceNumber>
+    <Description>Consulta de bono happy/ Happy period query</Description>
+    <Interpreter>bw.pp.ch.bw_pp_ch_InterpreteWebConsultaHappy</Interpreter>
+    <XMLObjects>
+      <XMLObject>Delogico</XMLObject>
+      <!--Can be multiple-->
+    </XMLObjects>
+    <AffectedData>
+      <AData object=""  literal ="numTelefono">telefono</AData>
+      <AData object=""  literal ="codMoneda">moneda</AData>
+      <!--Can be multiple-->
+    </AffectedData>
+    <OriginalData>
+      <ODField object=""  literal =""></ODField>
+      <!--Can be multiple-->
+    </OriginalData>
+    <OriginalMultipleData>
+      <OMD >
+        <!--Can be multiple-->
+        <OMDName object=""  literal ="">consultaAux</OMDName>
+        <number object="" literal ="">numBonosHappy</number>
+        <Record>
+          <OMDField object="" literal ="codBono">codBono</OMDField>
+          <OMDField object="" literal ="desBono">desBono</OMDField>
+          <OMDField object="" literal ="costeBono">costeBono</OMDField>
+          <!--Can be multiple-->
+        </Record>
+      </OMD>
+    </OriginalMultipleData>
+    <NewData>
+      <NDField object=""  literal =""></NDField>
+      <!--Can be multiple-->
+    </NewData>
+    <NewMultipleData>
+      <NMD >
+        <!--Can be multiple-->
+        <NMDName object=""  literal =""></NMDName>
+        <NMDnumber object=""  literal =""></NMDnumber>
+        <NMDRecord>
+          <NMDField object=""  literal =""></NMDField>
+          <!--Can be multiple-->
+        </NMDRecord>
+      </NMD>
+    </NewMultipleData>
+  </EDR>
+  <EDR>
+    <ActionCode>PP_CONSULTA_HAPPY</ActionCode>
+    <OperationType>SEARCH3</OperationType>
+    <transactionSequenceNumber></transactionSequenceNumber>
+    <Description>Consulta de bono happy/ Happy period query</Description>
+    <Interpreter>bw.pp.ch.bw_pp_ch_InterpreteWebConsultaHappy</Interpreter>
+    <XMLObjects>
+      <XMLObject>bw_pp_ch_OperacionGestionConsultaHappy</XMLObject>
+      <!--Can be multiple-->
+    </XMLObjects>
+    <AffectedData>
+      <AData object=""  literal ="numTelefono">telefono</AData>
+      <AData object=""  literal ="codMoneda">moneda</AData>
+      <!--Can be multiple-->
+    </AffectedData>
+    <OriginalData>
+      <ODField object=""  literal =""></ODField>
+      <!--Can be multiple-->
+    </OriginalData>
+    <OriginalMultipleData>
+      <OMD >
+        <!--Can be multiple-->
+        <OMDName object=""  literal ="">consultaAux</OMDName>
+        <number object="" literal ="">numBonosHappy</number>
+        <Record>
+          <OMDField object="" literal ="codBono">codBono</OMDField>
+          <OMDField object="" literal ="desBono">desBono</OMDField>
+          <OMDField object="" literal ="costeBono">costeBono</OMDField>
+          <!--Can be multiple-->
+        </Record>
+      </OMD>
+    </OriginalMultipleData>
+    <NewData>
+      <NDField object=""  literal =""></NDField>
+      <!--Can be multiple-->
+    </NewData>
+    <NewMultipleData>
+      <NMD >
+        <!--Can be multiple-->
+        <NMDName object=""  literal =""></NMDName>
+        <NMDnumber object=""  literal =""></NMDnumber>
+        <NMDRecord>
+          <NMDField object=""  literal =""></NMDField>
+          <!--Can be multiple-->
+        </NMDRecord>
+      </NMD>
+    </NewMultipleData>
+  </EDR>
+  
+</EDRs>

@@ -1,0 +1,13 @@
+/*1355046162,173214271*/
+
+.problem_statement .throbber{display:none}
+.problem_statement .async_saving .throbber{display:inline;margin:5px 0 0 5px}
+.hc_icon{margin-top:2px}
+.hc_pre{margin:0}
+.scoreboard_row .simple{text-align:center}
+.scoreboard_row.is_me.odd td{background-color:#adbad4;border-color:#d6ddea}
+.scoreboard_row.is_me td{background-color:#d6ddea}
+.scoreboard_row.is_me td,
+.scoreboard_row.is_friend td{font-weight:bold}
+
+#bootloader_sL3Sk { height: 42px; }

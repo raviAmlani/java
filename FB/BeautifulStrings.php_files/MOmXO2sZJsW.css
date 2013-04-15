@@ -1,0 +1,29 @@
+/*1358846660,178142493*/
+
+._4mq3{height:25px;width:201px}
+.presence_error ._4mq3, .sidebarMode ._4mq3{display:none}
+._4mq3.openToggler{z-index:99}
+._4mq3.openToggler .fbNubButton{display:none}
+._4mq3 .fbNubButton .icon{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/x/ttv1hjruBir.png);background-repeat:no-repeat;background-size:auto;background-position:-170px -135px;float:left;height:10px;margin:3px 4px 0 0;width:16px}
+.offline ._4mq3 .fbNubButton .icon, .offline.error ._4mq3 .fbNubButton .icon{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/x/ttv1hjruBir.png);background-repeat:no-repeat;background-size:auto;background-position:-153px -135px;height:10px;margin:3px 4px 0 0;width:16px}
+.error ._4mq3 .fbNubButton .icon{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yG/x/4GxErz9TbmS.png);background-repeat:no-repeat;background-size:auto;background-position:-156px -385px;height:13px;margin-top:1px;width:14px}
+._4mq3 .fbNubButton .label{display:block;line-height:15px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+._4mq3 .fbNubButton .label .count{color:#777}
+._4mq3 .fbNubButton .label .count strong{color:#333}
+._4mq3 .fbNubFlyout{bottom:0;min-height:280px;width:100%}
+._4mq3 .fbNubFlyoutInner{border-bottom:0}
+._4mq3 .fbNubFlyoutTitlebar .titlebarLabel{padding:0}
+._4mq3 .fbNubFlyoutTitlebar .titlebarTextWrapper{margin:3px 3px 3px 5px}
+._4mq3 .fbChatOrderedList, ._4mq3 .fbChatTypeaheadView{padding:5px 0}
+._4mq3 .fbChatTypeahead, ._4mq3 .fbChatTypeahead .wrap{border-style:none}
+._4mq3 .fbChatTypeahead{border-top:1px solid #dadfea}
+._4mq3 .fbChatTypeahead input{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yV/x/ttv1hjruBir.png);background-repeat:no-repeat;background-size:auto;background-position:left -2px;-moz-box-sizing:border-box;height:24px;padding-left:20px;padding-right:25px}
+._4mq3 div.fbChatSidebarDropdown .uiCloseButton{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yG/x/4GxErz9TbmS.png);background-repeat:no-repeat;background-size:auto;background-position:-267px -266px;border:0 !important;box-shadow:none;height:24px;width:22px}
+._4mq3 div.fbChatSidebarDropdown .uiCloseButton:active, ._4mq3 div.fbChatSidebarDropdown .uiCloseButton:focus, ._4mq3 div.fbChatSidebarDropdown .uiCloseButton:hover, ._4mq3 div.fbChatSidebarDropdown .openToggler .uiCloseButton, ._4mq3 div.fbChatSidebarDropdown .openToggler .uiCloseButton:active, ._4mq3 div.fbChatSidebarDropdown .openToggler .uiCloseButton:focus, ._4mq3 div.fbChatSidebarDropdown .openToggler .uiCloseButton:hover{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yG/x/4GxErz9TbmS.png);background-repeat:no-repeat;background-size:auto;background-position:-230px -304px;background-color:#4a66a0;margin:0}
+._4mq3 ._4mq7{background-color:#fff;border-top:1px solid #ccd0db;display:none;padding:6px}
+.error ._4mq3 ._4mq7{display:block}
+.error ._4mq3 ._4mq7 .img{background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yG/x/4GxErz9TbmS.png);background-repeat:no-repeat;background-size:auto;background-position:-156px -385px;float:left;height:13px;margin-top:7px;width:14px}
+._4mq3 ._4mq1{margin-left:24px}
+.rogerMarketingCallout .learnMoreLink{margin-left:7px}
+
+#bootloader_WMikn { height: 42px; }

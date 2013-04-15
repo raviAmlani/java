@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/itext-1.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/qrCode/qrgen-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/qrCode/zxing-core-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/qrCode/zxing-j2se-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/iText/itext-xtra-5.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/iText/itextpdf-5.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/qrCode/barcode.jar"/>
+	<classpathentry kind="lib" path="lib/quartz-1.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/qrCode/barcode_BackUp.jar"/>
+	<classpathentry kind="lib" path="lib/winInstaller/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/PKCS12/iaik_full_signed.jar"/>
+	<classpathentry kind="lib" path="lib/PKCS12/iaik_jce_full.jar"/>
+	<classpathentry kind="lib" path="lib/testNG/testng-6.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/JARs/POI/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/POI/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/POI/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/POI/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="D:/JARs/POI/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
