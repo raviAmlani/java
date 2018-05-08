@@ -19,10 +19,5 @@
 	<classpathentry kind="lib" path="lib/testNG/testng-6.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/postgresql-9.0-801.jdbc4.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/JARs/POI/poi-3.7-20101029.jar"/>
-	<classpathentry kind="lib" path="D:/JARs/POI/poi-3.7.jar"/>
-	<classpathentry kind="lib" path="D:/JARs/POI/poi-ooxml-3.7-20101029.jar"/>
-	<classpathentry kind="lib" path="D:/JARs/POI/poi-ooxml-schemas-3.7-20101029.jar"/>
-	<classpathentry kind="lib" path="D:/JARs/POI/poi-scratchpad-3.7-20101029.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
